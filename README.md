@@ -12,6 +12,7 @@ Você pode conferir uma demonstração do projeto em execução no seguinte link
 - Atribua funcionários aos setores da organização.
 - Utilize a imagem de perfil do GitHub para personalizar as informações dos funcionários.
 - Visualize e gerencie a composição das equipes e setores da organização de forma intuitiva.
+- E agora nessa versão atualizada pode se criar novos times
 
 ## Dica: Como Adicionar uma Imagem de Perfil
 
